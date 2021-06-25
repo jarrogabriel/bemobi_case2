@@ -46,6 +46,8 @@ $ node .
 
 # Digite o caminho do arquivo log a ser escolhido
 $ ../log/exemplo.txt
+
+# O arquivo com o resultado será gerado na pasta log com o nome de resultado.txt
 ```
 
 ### Tecnologias
