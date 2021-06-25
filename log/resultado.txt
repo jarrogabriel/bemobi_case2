@@ -1,0 +1,6 @@
+
+    Brasil: 2, 0
+
+    Chile: 2 , 0
+
+    Mexico: 1 , 1

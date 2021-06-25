@@ -1,0 +1,19 @@
+{
+  "name": "bemobi_case2",
+  "version": "1.0.0",
+  "description": "Bemobi Case test 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jarrogabriel/bemobi_case2.git"
+  },
+  "author": "Gabriel Jarró",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jarrogabriel/bemobi_case2/issues"
+  },
+  "homepage": "https://github.com/jarrogabriel/bemobi_case2#readme"
+}
